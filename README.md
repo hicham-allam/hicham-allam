@@ -8,7 +8,7 @@ I'm a web developer from Morocco passionate about clean code, creative design, a
 - 🌱 Currently learning: WebSockets, scalable backend systems, and full-stack architecture.
 - 👯 Open to collaborate on: Open source projects or small tools that solve real problems.
 - 💬 Ask me about: React, Flask/Quart, TailwindCSS, Cloudflare, and domain/infrastructure management.
-- 📫 Reach me at: [hichamallam@2@gmail.com] or via [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me at: [hichamallam02@gmail.com] or via [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ Fun fact: I love blending creative UI design with backend logic — clean and functional is my style.
 
 ---
